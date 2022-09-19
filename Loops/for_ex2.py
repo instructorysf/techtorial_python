@@ -20,8 +20,11 @@ for n in range(num,num2):
 
 print(text.removesuffix(" + "),"=" , sum)
 
+for n in range(1,5):
+    print(n * str(n))
 
-
+for n in range(1,5,-1):
+    print(n * n(str))
 
 
 
